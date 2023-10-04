@@ -30,7 +30,7 @@ const NewPage = () => {
         />
         <div className='flex gap-1 justify-end'>
           <Link
-            href={'..'}
+            href={'/'}
             className='border border-slate-400 bg-transparent px-2 py-1 rounded focus-within:border-slate-100 outline-none'
           >
             Cancel
